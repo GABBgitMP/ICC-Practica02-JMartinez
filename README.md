@@ -29,4 +29,4 @@ Simula una institucion bancaria se requiere hacer cierto manejo de fechas para d
 - El código está documentado con formato Javadoc y correctamente indentado
 
 El codigo se compila con la JVM dentro de la estructura en el archivo "icc/" en la terminal escribir "javac Fecha.java" y se creo un archivo Fecha.class
-Para ejecutar el codigo en la terminal seguido al paso anterior escribir java "Fecha.java"
+Para ejecutar el codigo en la terminal seguido al paso anterior escribir "java Fecha.java"
