@@ -32,6 +32,7 @@ la fecha final de una inversion de dinero. Por ello el proposito de este problem
 
 ## COMPILACIÓN Y EJECUCIÓN 
 
+Descarga todo el directorio a partir de `JMartinez`
 Abre la terminal y escribe ` cd JMartinez/practica02/src/icc/`
 
 Luego ya en ese directorio escribe en la terminal:
